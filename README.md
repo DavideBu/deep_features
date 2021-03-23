@@ -81,3 +81,5 @@ _gui:=True \
 _log_interval:=3.0 \
 ```
 
+In conclusione posso dire che secondo me basterebbe trovare il giusto posto per inserire i modelli scaricati ma non so dove sia il path
+
